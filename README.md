@@ -1,2 +1,2 @@
 # Move-It
-A resopnsive Website to learn Bootstrap.
+A resopnsive Website using Bootstrap.
